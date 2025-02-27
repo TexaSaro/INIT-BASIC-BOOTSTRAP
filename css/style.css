@@ -1,3 +1,8 @@
 body {
     background-color: aliceblue;
 }
+
+.carousel-container{
+    width: 35%;
+    justify-content: center;
+}
